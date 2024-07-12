@@ -38,7 +38,7 @@ open hubspot-email-multiseat.mp4
 # install
 
 ```
-git clone git@github.com:allen-munsch/bash-video.git
+git clone git@github.com:Alex9942080/bash-video.git
 cd bash-video
 
 alias bv="$(pwd)/bash-video.sh"
